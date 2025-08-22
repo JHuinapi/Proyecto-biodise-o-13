@@ -22,11 +22,29 @@ Integrantes:
 - Ricardo Sebastian Murillo Sedano -  ricardo.murillo@upch.pe
 - Xavier Alexis Hernandez Jeronimo - xavier.hernandez@upch.pe
 
+  <img src="Imagenes/group pic.jpg" width="500" />
+
 <h2>Tabla de contenidos</h2>
+
 1. Ficha de la enfermedad:
 2. Factores y analisis de la enfermedad:
 3. Prevencion, diagnostico, tratamiento y monitoreo:
-4. Reflexion ingenieril:   
+4. Reflexion ingenieril:  
+
+${\color{LightGreen}✪ \space \color{LightGreen}Tematica}$
+
+Trastornos neurológicos (esclerosis) 
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3j07IDiKsIEHoLznQWiIPJS87PHPTX5mZQ&s" width="300"/>
+
+${\color{LightGreen}✪ \space \color{LightGreen}Problematica}$	
+
+${\color{LightGreen}✪ \space \color{LightGreen}Justificacion}$	
+
+${\color{LightGreen}✪ \space \color{LightGreen}Referencias}$	
 
 
-<a href="-">hola
+ 
+
+
+
