@@ -1,7 +1,8 @@
-<h1 align="center">title</h1>
-<div align="center">
-  <h2><code>subtitle</code></h2>
-  <img src=" " width="200"/>
-  <p> -.</p>
-  <!-- Other content to be centered -->
-</div>
+# Biodiseño uwu
+Bienvenidos al repositorio del grupo 13 del curso "Fundamentos de biodiseño"
+Tema de interes:
+Proyecto:
+Integrantes:
+- Mariam Michelle Morocho Bustamante
+- Alexandra Milagros Mamani Casas
+- 
