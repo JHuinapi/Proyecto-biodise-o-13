@@ -4,6 +4,7 @@ Bienvenidos al repositorio del grupo 13 del curso "Fundamentos de biodiseño" ho
 Tema de interes: Trastornos neurológicos (esclerosis)
 
 Integrantes:
+<img src="3b853d27-c7d5-40ee-b7aa-5760f18921a7.jpg"/>
 - Mariam Michelle Morocho Bustamante
 - Alexandra Milagros Mamani Casas
 - Luis Antonio Gutierrez Nuñez
