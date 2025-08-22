@@ -1,4 +1,14 @@
-<img src="https://www.grupolarabida.org/wp-content/uploads/2020/11/Copia-de-Imagotipo-PUCP-alta_resolucion-1.png" width="300"/> <img src="https://ialtura.cayetano.edu.pe/wp-content/uploads/sites/69/2023/10/LogoCayetanoFullColor.png" width="300"/>
+<table>
+   <tr>
+      <td valign="top">
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.grupolarabida.org/wp-content/uploads/2020/11/Copia-de-Imagotipo-PUCP-alta_resolucion-1.png" width="300">
+      </td>
+      <td valign ="middle">
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://ialtura.cayetano.edu.pe/wp-content/uploads/sites/69/2023/10/LogoCayetanoFullColor.png" width="300">
+      </td>
+   </tr>
+</table>
+
 <h1>Biodiseño</h1>
 Bienvenidos al repositorio del grupo 13 del curso "Fundamentos de biodiseño" horario B403
 
