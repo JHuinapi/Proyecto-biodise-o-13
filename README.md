@@ -7,7 +7,7 @@ Tema de interes: Trastornos neurológicos (esclerosis)
 Integrantes:
 - Mariam Michelle Morocho Bustamante - mariam.morocho@upch.pe
 - Alexandra Milagros Mamani Casas - alexandra.mamani@upch.pe
-- Luis Antonio Gutierrez Nuñez - luis.gutierrez@upch.pe
+- Luis Antonio Gutierrez Nuñez - luis.gutierrez.n@upch.pe
 - Jonatan Esteban Huiñapi Huaman - jonatan.huinapi@upch.pe
 - Ricardo Sebastian Murillo Sedano -  ricardo.murillo@upch.pe
 - Xavier Alexis Hernandez Jeronimo - xavier.hernandez@upch.pe
