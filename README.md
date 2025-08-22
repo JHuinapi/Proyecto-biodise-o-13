@@ -44,7 +44,8 @@ Compleja accesibilidad a dispositivos para monitorizar la mielina en la corteza 
 
 ${\color{LightGreen}✪ \space \color{LightGreen}Justificacion}$	
 En la actualidad existe cierta carencia 
-${\color{LightGreen}✪ \space \color{LightGreen}Referencias}$	
+${\color{LightGreen}✪ \space \color{LightGreen}Referencias}$
+!https://academic.oup.com/brain/article/146/4/1243/6835220
 
 
  
