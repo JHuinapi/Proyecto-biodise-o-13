@@ -26,6 +26,8 @@ Integrantes:
 
 <h2>Tabla de contenidos</h2>
 
+${\color{LightGreen}✪ \space \color{LightGreen}Investigacion \space \color{LightGreen}previa \space \color{LightGreen}de \space \color{LightGreen}la \space \color{LightGreen}enfermedad}$
+
 1. Ficha de la enfermedad:
 2. Factores y analisis de la enfermedad:
 3. Prevencion, diagnostico, tratamiento y monitoreo:
