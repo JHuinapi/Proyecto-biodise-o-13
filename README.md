@@ -40,9 +40,10 @@ Trastornos neurológicos (esclerosis)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3j07IDiKsIEHoLznQWiIPJS87PHPTX5mZQ&s" width="300"/>
 
 ${\color{LightGreen}✪ \space \color{LightGreen}Problematica}$	
+Escases en dispositivos para monitorizar la mielina en la corteza cerebral
 
 ${\color{LightGreen}✪ \space \color{LightGreen}Justificacion}$	
-
+En la actualidad existe cierta carencia 
 ${\color{LightGreen}✪ \space \color{LightGreen}Referencias}$	
 
 
