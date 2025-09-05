@@ -24,28 +24,7 @@ Integrantes:
 
   <img src="Imagenes/group pic.jpg" width="500" />
 
-<h2>Tabla de contenidos</h2>
 
-${\color{LightGreen}✪ \space \color{LightGreen}Investigacion \space \color{LightGreen}previa \space \color{LightGreen}de \space \color{LightGreen}la \space \color{LightGreen}enfermedad}$
-
-1. Ficha de la enfermedad:
-2. Factores y analisis de la enfermedad:
-3. Prevencion, diagnostico, tratamiento y monitoreo:
-4. Reflexion ingenieril:  
-
-${\color{LightGreen}✪ \space \color{LightGreen}Tematica}$
-
-Trastornos neurológicos (esclerosis) 
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3j07IDiKsIEHoLznQWiIPJS87PHPTX5mZQ&s" width="300"/>
-
-${\color{LightGreen}✪ \space \color{LightGreen}Problematica}$	
-Compleja accesibilidad a dispositivos para monitorizar la mielina en la corteza cerebral
-
-${\color{LightGreen}✪ \space \color{LightGreen}Justificacion}$	
-En la actualidad existe cierta carencia 
-${\color{LightGreen}✪ \space \color{LightGreen}Referencias}$
-!https://academic.oup.com/brain/article/146/4/1243/6835220
 
 
  
